@@ -4,6 +4,10 @@
 
 This project implements a chatbot using Databricks Genie with OAuth 2.0 authentication via Microsoft EntraID. Every call to the Genie API is tracked with the authenticated user's identity, ensuring governance and security.
 
+## 📊 Results - Demo
+
+https://github.com/user-attachments/assets/4f8f94b5-3fcb-464e-9119-8b592078b994
+
 ## 🚀 Quick Start
 
 ### Prerequisites
